@@ -3,7 +3,7 @@ package lexer
 import "fmt"
 import "unicode"
 import "strings"
-import "common"
+import "../common"
 
 /* Set by command line arguments. Enables non-error print statements */
 var Debug = false

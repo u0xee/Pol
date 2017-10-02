@@ -1,10 +1,10 @@
 package main
 
-import "lexer"
+import "../lexer"
 import "io/ioutil"
 import "fmt"
 import "os"
-import "common"
+import "../common"
 import "strings"
 
 /* Pol main */

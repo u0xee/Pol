@@ -1,7 +1,7 @@
 package parser
 
 //import "fmt"
-import "common"
+import "../common"
 
 type Parser struct {
     tokens []common.Token
